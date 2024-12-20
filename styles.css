@@ -55,7 +55,30 @@ body {
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: "Caveat", serif;
+  font-size: 22px; /* Base font size */
+  line-height: 1.6; /* Line height for readability */
+  color: #333; /* Text color */
+  background-color: #f9f9f9; /* Background color */
+  margin: 0;
+  padding: 0;
+
+
+}
+@media (min-width: 768px) {
+  body {
+    font-size: 24px; /* Increase font size for larger screens */
+  }
+}
+
+p {
+  margin-bottom: 1.5rem; /* Space between paragraphs */
+}
+@media (min-width: 768px) {
+  .container {
+    padding: 0 2rem; /* Increase padding for larger screens */
+  }
 }
 
 nav {
