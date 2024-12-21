@@ -103,6 +103,7 @@ nav {
   font-size: 1.2rem;
   font-weight: 700;
   color: var(--text-dark);
+  color: rgba(0, 0, 255, 0.862);
 }
 
 .nav__menu__btn {
