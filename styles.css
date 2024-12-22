@@ -760,3 +760,11 @@ img.header__image-bg {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+#preloader{
+  background: black url(assets/Circle\ Loader.gif)no-repeat center center ;
+  background-size: 50%;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
