@@ -33,8 +33,7 @@ Introduce a blog section for pet care tips.
 Zuhaib Rashid
 Frontend Web Developer
 
-📧 Email: xuvaxuva006@gmail.com
-📞 Phone: 6006414088
+📧 Email: zuhaibrashid01@gmail.com
 🌐 GitHub
 Feel free to contribute or share feedback to make this project even better! 🐕🐈
 
